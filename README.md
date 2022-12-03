@@ -1,1 +1,1 @@
-# lab1 - SUAI
+# Lab1 - SUAI
