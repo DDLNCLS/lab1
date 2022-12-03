@@ -10,4 +10,4 @@
 
 - Схема процесса авторизации
 
-![autorization scheme](/schemes.png "autorization scheme")
+![autorization scheme](/schemes/1.png "autorization scheme")
