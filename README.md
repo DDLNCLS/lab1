@@ -18,4 +18,4 @@
 
 - Схема процесса регистрации 
 
-![registration scheme](/schemes/1.png "autorization scheme")
+![registration scheme](/schemes/2.png "registration scheme")
