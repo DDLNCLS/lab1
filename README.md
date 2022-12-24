@@ -24,6 +24,6 @@
 
 ## Структура Базы Данных
 
-![Data_Base Table](/schemes/3.png "data_base table")
+![Data_Base Table](/schemes/3.PNG "data_base table")
 
 Данные зарегистрированых пользователей храняться в базе данных. База данных состоит из следующих полей : `id`, `full_name`, `login`, `email`, `password`, и `avatar`.
